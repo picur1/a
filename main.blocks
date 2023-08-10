@@ -4,10 +4,10 @@
         . . # . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_pause" id="irm(R}m%-4kue?BcsMV,"><value name="pause"><shadow type="timePicker" id="gSVfHbFya7pO5{]?|.dQ"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id=";Q9R3Ow[=Qn_B,y~GeIO"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_pause" id="irm(R}m%-4kue?BcsMV," disabled="true" x="184" y="440"><value name="pause"><shadow type="timePicker" id="gSVfHbFya7pO5{]?|.dQ" disabled="true"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id=";Q9R3Ow[=Qn_B,y~GeIO" disabled="true"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_pause" id="?a/uCa+*cozn17w*^-CW"><value name="pause"><shadow type="timePicker" id="U%Y?(920w[8X[@uSKc0P"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="?a/uCa+*cozn17w*^-CW" disabled="true"><value name="pause"><shadow type="timePicker" id="U%Y?(920w[8X[@uSKc0P" disabled="true"><field name="ms">500</field></shadow></value></block></next></block></next></block></xml>
